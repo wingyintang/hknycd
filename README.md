@@ -2,6 +2,8 @@
 
 > 今次擲千萬辦除夕補飛活動，程鼎一透露，只讓團隊用3星期籌備，形容今次除夕活動是「全民參與式、香港未試過、世界未試過」-- [蘋果日報](https://hk.news.appledaily.com/local/realtime/article/20191223/60403306)
 
+基本資料 from https://github.com/gaplotech/hknycd-snapshot
+
 # 建立此 Repository 的目的
 據未經實証的消息了解，「香港除夕倒數大抽獎」好像是一個所費不菲的網站，但除夕倒數大抽獎的整體體驗劣評如潮。
 
@@ -10,6 +12,8 @@
 當然梗係唔好淨係睇，係集思廣益諗下除左 Server，Program 層面上有無方法可以減輕 loading 喇。
 
 所以 HTML，CSS and javascript 既部分放係 views 入面，再加一個 nodejs 版既 web server 包起佢，大家接龍喇！
+
+如果有身份證登記，點解要做 SMS 同 Email validation? 唔明。
 
 # 檔案取得方法
 所有檔案均是**公開**的檔案給公眾下載，作者於 GitHub Repository 內的檔案只使用簡單的指令取得，指令如下
